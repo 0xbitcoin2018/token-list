@@ -5981,6 +5981,18 @@
     },
     {
       "chainId": 101
+      "address": "4XNMAck3ZY7CV52md4vSKAjEesknf9Wrvixu1ZdiLNx9",
+      "symbol": "0xBTC",
+      "name": "0xBitcoin Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB6eD7644C69416d67B522e20bC294A9a9B405B31/logo.png",
+      "tags": [],
+      "extensions": {
+        "website": "https://0xbitcoin.org/"
+      }
+    },
+    {
+      "chainId": 101
       "address": "8PMHT4swUMtBzgHnh5U564N5sjPSiUz2cjEQzFnnP1Fo",
       "symbol": "ROPE",
       "name": "Rope Token",
